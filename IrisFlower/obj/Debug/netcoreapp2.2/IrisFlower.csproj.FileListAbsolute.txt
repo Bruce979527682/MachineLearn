@@ -1,0 +1,12 @@
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\bin\Debug\netcoreapp2.2\IrisFlower.deps.json
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\bin\Debug\netcoreapp2.2\IrisFlower.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\bin\Debug\netcoreapp2.2\IrisFlower.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\bin\Debug\netcoreapp2.2\IrisFlower.dll
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\obj\Debug\netcoreapp2.2\IrisFlower.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\obj\Debug\netcoreapp2.2\IrisFlower.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\obj\Debug\netcoreapp2.2\IrisFlower.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\bin\Debug\netcoreapp2.2\Data\iris.data
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\bin\Debug\netcoreapp2.2\IrisFlower.pdb
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\obj\Debug\netcoreapp2.2\IrisFlower.csprojAssemblyReference.cache
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\obj\Debug\netcoreapp2.2\IrisFlower.dll
+C:\Users\vzan\source\repos\MachineLearn\IrisFlower\obj\Debug\netcoreapp2.2\IrisFlower.pdb

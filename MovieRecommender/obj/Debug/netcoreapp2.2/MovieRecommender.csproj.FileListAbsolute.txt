@@ -1,0 +1,13 @@
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.deps.json
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.dll
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\Data\recommendation-ratings-test.csv
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\Data\recommendation-ratings-train.csv
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\bin\Debug\netcoreapp2.2\MovieRecommender.pdb
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.csprojAssemblyReference.cache
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.dll
+C:\Users\vzan\source\repos\MachineLearn\MovieRecommender\obj\Debug\netcoreapp2.2\MovieRecommender.pdb

@@ -1,0 +1,8 @@
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\bin\Debug\netcoreapp2.2\ImageClassification.deps.json
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\bin\Debug\netcoreapp2.2\ImageClassification.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\bin\Debug\netcoreapp2.2\ImageClassification.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\bin\Debug\netcoreapp2.2\ImageClassification.dll
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.csprojAssemblyReference.cache

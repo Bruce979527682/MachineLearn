@@ -1,0 +1,11 @@
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\yelp_labelled.txt
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\SentimentAnalysis.deps.json
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\SentimentAnalysis.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\SentimentAnalysis.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\SentimentAnalysis.dll
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\SentimentAnalysis.pdb
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\SentimentAnalysis.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\SentimentAnalysis.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\SentimentAnalysis.dll
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\SentimentAnalysis.pdb

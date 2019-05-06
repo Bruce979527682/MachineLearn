@@ -1,0 +1,13 @@
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\PricePrediction.deps.json
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\PricePrediction.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\PricePrediction.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\PricePrediction.dll
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\obj\Debug\netcoreapp2.2\PricePrediction.csprojAssemblyReference.cache
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\obj\Debug\netcoreapp2.2\PricePrediction.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\obj\Debug\netcoreapp2.2\PricePrediction.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\obj\Debug\netcoreapp2.2\PricePrediction.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\Data\taxi-fare-test.csv
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\Data\taxi-fare-train.csv
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\bin\Debug\netcoreapp2.2\PricePrediction.pdb
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\obj\Debug\netcoreapp2.2\PricePrediction.dll
+C:\Users\vzan\source\repos\MachineLearn\PricePrediction\obj\Debug\netcoreapp2.2\PricePrediction.pdb

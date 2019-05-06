@@ -1,0 +1,12 @@
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\MachineLearn.deps.json
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\MachineLearn.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\MachineLearn.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\MachineLearn.dll
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\MachineLearn.csprojAssemblyReference.cache
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\MachineLearn.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\MachineLearn.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\MachineLearn.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\yelp_labelled.txt
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\bin\Debug\netcoreapp2.2\MachineLearn.pdb
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\MachineLearn.dll
+C:\Users\vzan\source\repos\MachineLearn\MachineLearn\obj\Debug\netcoreapp2.2\MachineLearn.pdb

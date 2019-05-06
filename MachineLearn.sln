@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentAnalysis", "MachineLearn\SentimentAnalysis.csproj", "{A3AB4258-2193-4893-B419-A8991C0255A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IssueClassification", "IssueClassification\IssueClassification.csproj", "{F76C03ED-F22F-4F22-B9C7-8DECCAAEDAC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PricePrediction", "PricePrediction\PricePrediction.csproj", "{20ABA6DF-D3F0-413C-B882-9C77D48C379C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisFlower", "IrisFlower\IrisFlower.csproj", "{82977C61-CC72-480E-AD4E-EA1ACE9DE6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRecommender", "MovieRecommender\MovieRecommender.csproj", "{FA9C3255-532F-4A60-A051-4BD0DCE90941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageClassification", "ImageClassification\ImageClassification.csproj", "{B90E9652-9908-4572-A4EF-53A8FE136106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AB4258-2193-4893-B419-A8991C0255A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AB4258-2193-4893-B419-A8991C0255A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AB4258-2193-4893-B419-A8991C0255A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AB4258-2193-4893-B419-A8991C0255A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76C03ED-F22F-4F22-B9C7-8DECCAAEDAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76C03ED-F22F-4F22-B9C7-8DECCAAEDAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76C03ED-F22F-4F22-B9C7-8DECCAAEDAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76C03ED-F22F-4F22-B9C7-8DECCAAEDAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20ABA6DF-D3F0-413C-B882-9C77D48C379C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ABA6DF-D3F0-413C-B882-9C77D48C379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ABA6DF-D3F0-413C-B882-9C77D48C379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ABA6DF-D3F0-413C-B882-9C77D48C379C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82977C61-CC72-480E-AD4E-EA1ACE9DE6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82977C61-CC72-480E-AD4E-EA1ACE9DE6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82977C61-CC72-480E-AD4E-EA1ACE9DE6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82977C61-CC72-480E-AD4E-EA1ACE9DE6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9C3255-532F-4A60-A051-4BD0DCE90941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9C3255-532F-4A60-A051-4BD0DCE90941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9C3255-532F-4A60-A051-4BD0DCE90941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9C3255-532F-4A60-A051-4BD0DCE90941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90E9652-9908-4572-A4EF-53A8FE136106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90E9652-9908-4572-A4EF-53A8FE136106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90E9652-9908-4572-A4EF-53A8FE136106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90E9652-9908-4572-A4EF-53A8FE136106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9854812-E9E6-47C5-B0B8-81C68B5CF625}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\IssueClassification.deps.json
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\IssueClassification.runtimeconfig.json
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\IssueClassification.runtimeconfig.dev.json
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\IssueClassification.dll
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\obj\Debug\netcoreapp2.2\IssueClassification.csproj.CoreCompileInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\obj\Debug\netcoreapp2.2\IssueClassification.AssemblyInfoInputs.cache
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\obj\Debug\netcoreapp2.2\IssueClassification.AssemblyInfo.cs
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\IssueClassification.pdb
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\obj\Debug\netcoreapp2.2\IssueClassification.dll
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\obj\Debug\netcoreapp2.2\IssueClassification.pdb
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\Data\issues_test.tsv
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\bin\Debug\netcoreapp2.2\Data\issues_train.tsv
+C:\Users\vzan\source\repos\MachineLearn\IssueClassification\obj\Debug\netcoreapp2.2\IssueClassification.csprojAssemblyReference.cache
