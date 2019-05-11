@@ -6,3 +6,6 @@ C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp
 C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.AssemblyInfoInputs.cache
 C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.AssemblyInfo.cs
 C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.csprojAssemblyReference.cache
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\bin\Debug\netcoreapp2.2\ImageClassification.pdb
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.dll
+C:\Users\vzan\source\repos\MachineLearn\ImageClassification\obj\Debug\netcoreapp2.2\ImageClassification.pdb

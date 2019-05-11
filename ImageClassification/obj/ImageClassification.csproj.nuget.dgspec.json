@@ -43,15 +43,15 @@
           "dependencies": {
             "Microsoft.ML": {
               "target": "Package",
-              "version": "[0.11.0, )"
+              "version": "[0.10.0, )"
             },
             "Microsoft.ML.ImageAnalytics": {
               "target": "Package",
-              "version": "[0.11.0, )"
+              "version": "[0.10.0, )"
             },
             "Microsoft.ML.TensorFlow": {
               "target": "Package",
-              "version": "[0.11.0, )"
+              "version": "[0.10.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
